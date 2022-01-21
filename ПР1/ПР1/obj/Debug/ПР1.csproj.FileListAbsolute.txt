@@ -1,0 +1,10 @@
+C:\Users\golya\source\repos\ПР1\ПР1\bin\Debug\ПР1.exe.config
+C:\Users\golya\source\repos\ПР1\ПР1\bin\Debug\ПР1.exe
+C:\Users\golya\source\repos\ПР1\ПР1\bin\Debug\ПР1.pdb
+C:\Users\golya\source\repos\ПР1\ПР1\obj\Debug\ПР1.csproj.AssemblyReference.cache
+C:\Users\golya\source\repos\ПР1\ПР1\obj\Debug\ПР1.Form1.resources
+C:\Users\golya\source\repos\ПР1\ПР1\obj\Debug\ПР1.Properties.Resources.resources
+C:\Users\golya\source\repos\ПР1\ПР1\obj\Debug\ПР1.csproj.GenerateResource.cache
+C:\Users\golya\source\repos\ПР1\ПР1\obj\Debug\ПР1.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\ПР1\ПР1\obj\Debug\ПР1.exe
+C:\Users\golya\source\repos\ПР1\ПР1\obj\Debug\ПР1.pdb
